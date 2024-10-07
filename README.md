@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Kalan Hao, a korean postgraduate student which currently leaves in Japan.
+I'm Kalan Hao, a korean postgraduate student which currently lives in Japan.
  👯 I’m looking to collaborate on open source projects.
  🌱 I’m currently learning Rust programming language, NLP.
